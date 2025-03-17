@@ -1,6 +1,8 @@
 <h1>HalluShield: A Mechanistic Approach to
 Hallucination Resistant Models</h1>
 
+Project Submission & Feedback: https://www.apartresearch.com/project/hallushield-a-mechanistic-approach-to-hallucination-resistant-models-f6b7d
+
 Our project tackles the critical problem of hallucinations in large language models (LLMs) used in
 healthcare settings, where inaccurate information can have serious consequences. We developed a
 proof-of-concept system that classifies LLM-generated responses as either factual or hallucinated.
