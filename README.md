@@ -3,6 +3,8 @@ Hallucination Resistant Models</h1>
 
 Project Submission & Feedback: https://www.apartresearch.com/project/hallushield-a-mechanistic-approach-to-hallucination-resistant-models-f6b7d
 
+[![Center for AI Safety Project - Reducing Medical Hallucinations - Watch Video](https://cdn.loom.com/sessions/thumbnails/bf914ef4961d43c9800014d43fe03b85-ff9da7490cc49376-full-play.gif#t=0.1)](https://www.loom.com/share/bf914ef4961d43c9800014d43fe03b85)
+
 Our project tackles the critical problem of hallucinations in large language models (LLMs) used in
 healthcare settings, where inaccurate information can have serious consequences. We developed a
 proof-of-concept system that classifies LLM-generated responses as either factual or hallucinated.
